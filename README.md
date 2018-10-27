@@ -1,9 +1,10 @@
 Gallery Of Pictures from My country El Salvador
 
-Note: This is a sample web page. Buttons do not work. 
+A sample of a gallery done using:  HTML,CSS && BOOTSTRAP
 
-A sample of a gallery done using { HTML,CSS && BOOTSTRAP}
+This is a personal project using my new Front-End learned framework: Bootstrap. 
 
-I have implemented my recent learned skills in Bootstrap. 
+Note: This is a sample web page. Buttons do not work and some picture's link may get broken over time since pictures are from the web. 
+
 
 
